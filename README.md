@@ -1,2 +1,2 @@
 # countsplitting
-This github site redirects to https://anna-neufeld.github.io/countsplit/. 
+This github site has been deprecated. Please visit https://anna-neufeld.github.io/countsplit/ instead. 
